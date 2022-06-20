@@ -8,6 +8,7 @@
   * Golang based Building APIs for Custom WebApps
   * Next.js based front-end
   * Full service capable stacks ranging from linux(docker) - mysql - golang (APIs) - next.js
+  * All this at IGIS Asset Management Data Lab
 
 - :paperclip: My main programming language is ...
   * Golang
